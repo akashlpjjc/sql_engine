@@ -1,1 +1,1 @@
-A text to sql engine for snowflake
+Application developed on python==3.12.5

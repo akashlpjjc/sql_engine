@@ -1,0 +1,3 @@
+#LLM
+GROQ_API_KEY = "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"
+GROQ_MODEL = "llama3-70b-8192"
